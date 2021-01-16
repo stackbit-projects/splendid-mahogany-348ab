@@ -23,6 +23,7 @@ header:
     - label: Style Guide
       url: /style-guide
       style: link
+      has_icon: true
     - label: Sign Up
       url: /signup
       style: primary
